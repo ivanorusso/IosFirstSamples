@@ -141,6 +141,18 @@
 		F4CAE35F1831E4EA003BC04D /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = F4CAE35E1831E4EA003BC04D /* AppDelegate.m */; };
 		F4CAE3621831E4EA003BC04D /* HelloWorldLayer.m in Sources */ = {isa = PBXBuildFile; fileRef = F4CAE3611831E4EA003BC04D /* HelloWorldLayer.m */; };
 		F4CAE3651831E4EA003BC04D /* IntroLayer.m in Sources */ = {isa = PBXBuildFile; fileRef = F4CAE3641831E4EA003BC04D /* IntroLayer.m */; };
+		F4CAE3771831E53D003BC04D /* cloud-hd.png in Resources */ = {isa = PBXBuildFile; fileRef = F4CAE36B1831E53D003BC04D /* cloud-hd.png */; };
+		F4CAE3781831E53D003BC04D /* cloud.png in Resources */ = {isa = PBXBuildFile; fileRef = F4CAE36C1831E53D003BC04D /* cloud.png */; };
+		F4CAE3791831E53D003BC04D /* gameobjects-hd.plist in Resources */ = {isa = PBXBuildFile; fileRef = F4CAE36D1831E53D003BC04D /* gameobjects-hd.plist */; };
+		F4CAE37A1831E53D003BC04D /* gameobjects-hd.png in Resources */ = {isa = PBXBuildFile; fileRef = F4CAE36E1831E53D003BC04D /* gameobjects-hd.png */; };
+		F4CAE37B1831E53D003BC04D /* gameobjects.plist in Resources */ = {isa = PBXBuildFile; fileRef = F4CAE36F1831E53D003BC04D /* gameobjects.plist */; };
+		F4CAE37C1831E53D003BC04D /* gameobjects.png in Resources */ = {isa = PBXBuildFile; fileRef = F4CAE3701831E53D003BC04D /* gameobjects.png */; };
+		F4CAE37D1831E53D003BC04D /* logo-hd.png in Resources */ = {isa = PBXBuildFile; fileRef = F4CAE3711831E53D003BC04D /* logo-hd.png */; };
+		F4CAE37E1831E53D003BC04D /* logo.png in Resources */ = {isa = PBXBuildFile; fileRef = F4CAE3721831E53D003BC04D /* logo.png */; };
+		F4CAE37F1831E53D003BC04D /* play-button-down-hd.png in Resources */ = {isa = PBXBuildFile; fileRef = F4CAE3731831E53D003BC04D /* play-button-down-hd.png */; };
+		F4CAE3801831E53D003BC04D /* play-button-down.png in Resources */ = {isa = PBXBuildFile; fileRef = F4CAE3741831E53D003BC04D /* play-button-down.png */; };
+		F4CAE3811831E53D003BC04D /* play-button-hd.png in Resources */ = {isa = PBXBuildFile; fileRef = F4CAE3751831E53D003BC04D /* play-button-hd.png */; };
+		F4CAE3821831E53D003BC04D /* play-button.png in Resources */ = {isa = PBXBuildFile; fileRef = F4CAE3761831E53D003BC04D /* play-button.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -425,6 +437,18 @@
 		F4CAE3611831E4EA003BC04D /* HelloWorldLayer.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = HelloWorldLayer.m; sourceTree = "<group>"; };
 		F4CAE3631831E4EA003BC04D /* IntroLayer.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = IntroLayer.h; sourceTree = "<group>"; };
 		F4CAE3641831E4EA003BC04D /* IntroLayer.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = IntroLayer.m; sourceTree = "<group>"; };
+		F4CAE36B1831E53D003BC04D /* cloud-hd.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "cloud-hd.png"; path = "../../../../Downloads/CocosDragonResources/cloud-hd.png"; sourceTree = "<group>"; };
+		F4CAE36C1831E53D003BC04D /* cloud.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = cloud.png; path = ../../../../Downloads/CocosDragonResources/cloud.png; sourceTree = "<group>"; };
+		F4CAE36D1831E53D003BC04D /* gameobjects-hd.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = "gameobjects-hd.plist"; path = "../../../../Downloads/CocosDragonResources/gameobjects-hd.plist"; sourceTree = "<group>"; };
+		F4CAE36E1831E53D003BC04D /* gameobjects-hd.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "gameobjects-hd.png"; path = "../../../../Downloads/CocosDragonResources/gameobjects-hd.png"; sourceTree = "<group>"; };
+		F4CAE36F1831E53D003BC04D /* gameobjects.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = gameobjects.plist; path = ../../../../Downloads/CocosDragonResources/gameobjects.plist; sourceTree = "<group>"; };
+		F4CAE3701831E53D003BC04D /* gameobjects.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = gameobjects.png; path = ../../../../Downloads/CocosDragonResources/gameobjects.png; sourceTree = "<group>"; };
+		F4CAE3711831E53D003BC04D /* logo-hd.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "logo-hd.png"; path = "../../../../Downloads/CocosDragonResources/logo-hd.png"; sourceTree = "<group>"; };
+		F4CAE3721831E53D003BC04D /* logo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = logo.png; path = ../../../../Downloads/CocosDragonResources/logo.png; sourceTree = "<group>"; };
+		F4CAE3731831E53D003BC04D /* play-button-down-hd.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "play-button-down-hd.png"; path = "../../../../Downloads/CocosDragonResources/play-button-down-hd.png"; sourceTree = "<group>"; };
+		F4CAE3741831E53D003BC04D /* play-button-down.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "play-button-down.png"; path = "../../../../Downloads/CocosDragonResources/play-button-down.png"; sourceTree = "<group>"; };
+		F4CAE3751831E53D003BC04D /* play-button-hd.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "play-button-hd.png"; path = "../../../../Downloads/CocosDragonResources/play-button-hd.png"; sourceTree = "<group>"; };
+		F4CAE3761831E53D003BC04D /* play-button.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "play-button.png"; path = "../../../../Downloads/CocosDragonResources/play-button.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -501,6 +525,18 @@
 		F4CAE1CD1831E4E9003BC04D /* Resources */ = {
 			isa = PBXGroup;
 			children = (
+				F4CAE36B1831E53D003BC04D /* cloud-hd.png */,
+				F4CAE36C1831E53D003BC04D /* cloud.png */,
+				F4CAE36D1831E53D003BC04D /* gameobjects-hd.plist */,
+				F4CAE36E1831E53D003BC04D /* gameobjects-hd.png */,
+				F4CAE36F1831E53D003BC04D /* gameobjects.plist */,
+				F4CAE3701831E53D003BC04D /* gameobjects.png */,
+				F4CAE3711831E53D003BC04D /* logo-hd.png */,
+				F4CAE3721831E53D003BC04D /* logo.png */,
+				F4CAE3731831E53D003BC04D /* play-button-down-hd.png */,
+				F4CAE3741831E53D003BC04D /* play-button-down.png */,
+				F4CAE3751831E53D003BC04D /* play-button-hd.png */,
+				F4CAE3761831E53D003BC04D /* play-button.png */,
 				F4CAE1CE1831E4E9003BC04D /* Default.png */,
 				F4CAE1D01831E4E9003BC04D /* Default@2x.png */,
 				F4CAE1D21831E4E9003BC04D /* Default-568h@2x.png */,
@@ -932,13 +968,25 @@
 			files = (
 				F4CAE1DF1831E4E9003BC04D /* Icon.png in Resources */,
 				F4CAE33D1831E4EA003BC04D /* ChangeLog in Resources */,
+				F4CAE37D1831E53D003BC04D /* logo-hd.png in Resources */,
+				F4CAE37C1831E53D003BC04D /* gameobjects.png in Resources */,
+				F4CAE37A1831E53D003BC04D /* gameobjects-hd.png in Resources */,
+				F4CAE37F1831E53D003BC04D /* play-button-down-hd.png in Resources */,
 				F4CAE1D11831E4E9003BC04D /* Default@2x.png in Resources */,
+				F4CAE3801831E53D003BC04D /* play-button-down.png in Resources */,
 				F4CAE1DB1831E4E9003BC04D /* Icon-Small.png in Resources */,
+				F4CAE3821831E53D003BC04D /* play-button.png in Resources */,
 				F4CAE1D71831E4E9003BC04D /* Icon-72.png in Resources */,
+				F4CAE3811831E53D003BC04D /* play-button-hd.png in Resources */,
+				F4CAE3791831E53D003BC04D /* gameobjects-hd.plist in Resources */,
 				F4CAE1CF1831E4E9003BC04D /* Default.png in Resources */,
+				F4CAE3771831E53D003BC04D /* cloud-hd.png in Resources */,
 				F4CAE1D91831E4E9003BC04D /* Icon-Small-50.png in Resources */,
 				F4CAE1E41831E4E9003BC04D /* iTunesArtwork in Resources */,
+				F4CAE3781831E53D003BC04D /* cloud.png in Resources */,
 				F4CAE1DD1831E4E9003BC04D /* Icon-Small@2x.png in Resources */,
+				F4CAE37B1831E53D003BC04D /* gameobjects.plist in Resources */,
+				F4CAE37E1831E53D003BC04D /* logo.png in Resources */,
 				F4CAE1D51831E4E9003BC04D /* Default-Landscape~ipad.png in Resources */,
 				F4CAE1D31831E4E9003BC04D /* Default-568h@2x.png in Resources */,
 				F4CAE1E11831E4E9003BC04D /* Icon@2x.png in Resources */,
