@@ -7,6 +7,34 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		F4953618183B1DEF003AA626 /* play-button-down-hd.png in Resources */ = {isa = PBXBuildFile; fileRef = F4953614183B1DEF003AA626 /* play-button-down-hd.png */; };
+		F4953619183B1DEF003AA626 /* play-button-down.png in Resources */ = {isa = PBXBuildFile; fileRef = F4953615183B1DEF003AA626 /* play-button-down.png */; };
+		F495361A183B1DEF003AA626 /* play-button-hd.png in Resources */ = {isa = PBXBuildFile; fileRef = F4953616183B1DEF003AA626 /* play-button-hd.png */; };
+		F495361B183B1DEF003AA626 /* play-button.png in Resources */ = {isa = PBXBuildFile; fileRef = F4953617183B1DEF003AA626 /* play-button.png */; };
+		F495361E183B1E0C003AA626 /* logo-hd.png in Resources */ = {isa = PBXBuildFile; fileRef = F495361C183B1E0C003AA626 /* logo-hd.png */; };
+		F495361F183B1E0C003AA626 /* logo.png in Resources */ = {isa = PBXBuildFile; fileRef = F495361D183B1E0C003AA626 /* logo.png */; };
+		F4953692183B1E41003AA626 /* cloud-hd.png in Resources */ = {isa = PBXBuildFile; fileRef = F4953690183B1E41003AA626 /* cloud-hd.png */; };
+		F4953693183B1E41003AA626 /* cloud.png in Resources */ = {isa = PBXBuildFile; fileRef = F4953691183B1E41003AA626 /* cloud.png */; };
+		F4953695183B1E68003AA626 /* gameobjects-hd.plist in Resources */ = {isa = PBXBuildFile; fileRef = F4953694183B1E68003AA626 /* gameobjects-hd.plist */; };
+		F4953697183B1E7B003AA626 /* gameobjects.plist in Resources */ = {isa = PBXBuildFile; fileRef = F4953696183B1E7B003AA626 /* gameobjects.plist */; };
+		F49536A3183B1EC5003AA626 /* Bomb.ccbi in Resources */ = {isa = PBXBuildFile; fileRef = F4953698183B1EC5003AA626 /* Bomb.ccbi */; };
+		F49536A4183B1EC5003AA626 /* Coin.ccbi in Resources */ = {isa = PBXBuildFile; fileRef = F4953699183B1EC5003AA626 /* Coin.ccbi */; };
+		F49536A5183B1EC5003AA626 /* Dragon.ccbi in Resources */ = {isa = PBXBuildFile; fileRef = F495369A183B1EC5003AA626 /* Dragon.ccbi */; };
+		F49536A6183B1EC5003AA626 /* EndCoin.ccbi in Resources */ = {isa = PBXBuildFile; fileRef = F495369B183B1EC5003AA626 /* EndCoin.ccbi */; };
+		F49536A7183B1EC5003AA626 /* Explosion.ccbi in Resources */ = {isa = PBXBuildFile; fileRef = F495369C183B1EC5003AA626 /* Explosion.ccbi */; };
+		F49536A8183B1EC5003AA626 /* gameobjects-hd.png in Resources */ = {isa = PBXBuildFile; fileRef = F495369D183B1EC5003AA626 /* gameobjects-hd.png */; };
+		F49536A9183B1EC5003AA626 /* gameobjects.png in Resources */ = {isa = PBXBuildFile; fileRef = F495369E183B1EC5003AA626 /* gameobjects.png */; };
+		F49536AA183B1EC5003AA626 /* GameScene.ccbi in Resources */ = {isa = PBXBuildFile; fileRef = F495369F183B1EC5003AA626 /* GameScene.ccbi */; };
+		F49536AB183B1EC5003AA626 /* HelloCocosBuilder.ccbi in Resources */ = {isa = PBXBuildFile; fileRef = F49536A0183B1EC5003AA626 /* HelloCocosBuilder.ccbi */; };
+		F49536AC183B1EC5003AA626 /* Level.ccbi in Resources */ = {isa = PBXBuildFile; fileRef = F49536A1183B1EC5003AA626 /* Level.ccbi */; };
+		F49536BB183B1F5E003AA626 /* CCBAnimationManager.m in Sources */ = {isa = PBXBuildFile; fileRef = F49536B0183B1F5E003AA626 /* CCBAnimationManager.m */; };
+		F49536BC183B1F5E003AA626 /* CCBKeyframe.m in Sources */ = {isa = PBXBuildFile; fileRef = F49536B2183B1F5E003AA626 /* CCBKeyframe.m */; };
+		F49536BD183B1F5E003AA626 /* CCBReader.m in Sources */ = {isa = PBXBuildFile; fileRef = F49536B4183B1F5E003AA626 /* CCBReader.m */; };
+		F49536BE183B1F5E003AA626 /* CCBsequence.m in Sources */ = {isa = PBXBuildFile; fileRef = F49536B6183B1F5E003AA626 /* CCBsequence.m */; };
+		F49536BF183B1F5E003AA626 /* CCBSequenceProperty.m in Sources */ = {isa = PBXBuildFile; fileRef = F49536B8183B1F5E003AA626 /* CCBSequenceProperty.m */; };
+		F49536C0183B1F5E003AA626 /* CCNode+CCBRelativePositioning.m in Sources */ = {isa = PBXBuildFile; fileRef = F49536BA183B1F5E003AA626 /* CCNode+CCBRelativePositioning.m */; };
+		F49536C3183B20C2003AA626 /* MainMenuScene.m in Sources */ = {isa = PBXBuildFile; fileRef = F49536C2183B20C2003AA626 /* MainMenuScene.m */; };
+		F49536C5183B225A003AA626 /* MainMenuScene.ccbi in Resources */ = {isa = PBXBuildFile; fileRef = F49536C4183B225A003AA626 /* MainMenuScene.ccbi */; };
 		F4CAE1B91831E4E9003BC04D /* QuartzCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F4CAE1B81831E4E9003BC04D /* QuartzCore.framework */; };
 		F4CAE1BB1831E4E9003BC04D /* OpenGLES.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F4CAE1BA1831E4E9003BC04D /* OpenGLES.framework */; };
 		F4CAE1BD1831E4E9003BC04D /* OpenAL.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F4CAE1BC1831E4E9003BC04D /* OpenAL.framework */; };
@@ -156,6 +184,41 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		F4953614183B1DEF003AA626 /* play-button-down-hd.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "play-button-down-hd.png"; path = "Resources/play-button-down-hd.png"; sourceTree = "<group>"; };
+		F4953615183B1DEF003AA626 /* play-button-down.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "play-button-down.png"; path = "Resources/play-button-down.png"; sourceTree = "<group>"; };
+		F4953616183B1DEF003AA626 /* play-button-hd.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "play-button-hd.png"; path = "Resources/play-button-hd.png"; sourceTree = "<group>"; };
+		F4953617183B1DEF003AA626 /* play-button.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "play-button.png"; path = "Resources/play-button.png"; sourceTree = "<group>"; };
+		F495361C183B1E0C003AA626 /* logo-hd.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "logo-hd.png"; path = "Resources/logo-hd.png"; sourceTree = "<group>"; };
+		F495361D183B1E0C003AA626 /* logo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = logo.png; path = Resources/logo.png; sourceTree = "<group>"; };
+		F4953690183B1E41003AA626 /* cloud-hd.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "cloud-hd.png"; path = "Resources/cloud-hd.png"; sourceTree = "<group>"; };
+		F4953691183B1E41003AA626 /* cloud.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = cloud.png; path = Resources/cloud.png; sourceTree = "<group>"; };
+		F4953694183B1E68003AA626 /* gameobjects-hd.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = "gameobjects-hd.plist"; path = "Resources/gameobjects-hd.plist"; sourceTree = "<group>"; };
+		F4953696183B1E7B003AA626 /* gameobjects.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = gameobjects.plist; path = Resources/gameobjects.plist; sourceTree = "<group>"; };
+		F4953698183B1EC5003AA626 /* Bomb.ccbi */ = {isa = PBXFileReference; lastKnownFileType = file; name = Bomb.ccbi; path = Resources/Bomb.ccbi; sourceTree = "<group>"; };
+		F4953699183B1EC5003AA626 /* Coin.ccbi */ = {isa = PBXFileReference; lastKnownFileType = file; name = Coin.ccbi; path = Resources/Coin.ccbi; sourceTree = "<group>"; };
+		F495369A183B1EC5003AA626 /* Dragon.ccbi */ = {isa = PBXFileReference; lastKnownFileType = file; name = Dragon.ccbi; path = Resources/Dragon.ccbi; sourceTree = "<group>"; };
+		F495369B183B1EC5003AA626 /* EndCoin.ccbi */ = {isa = PBXFileReference; lastKnownFileType = file; name = EndCoin.ccbi; path = Resources/EndCoin.ccbi; sourceTree = "<group>"; };
+		F495369C183B1EC5003AA626 /* Explosion.ccbi */ = {isa = PBXFileReference; lastKnownFileType = file; name = Explosion.ccbi; path = Resources/Explosion.ccbi; sourceTree = "<group>"; };
+		F495369D183B1EC5003AA626 /* gameobjects-hd.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "gameobjects-hd.png"; path = "Resources/gameobjects-hd.png"; sourceTree = "<group>"; };
+		F495369E183B1EC5003AA626 /* gameobjects.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = gameobjects.png; path = Resources/gameobjects.png; sourceTree = "<group>"; };
+		F495369F183B1EC5003AA626 /* GameScene.ccbi */ = {isa = PBXFileReference; lastKnownFileType = file; name = GameScene.ccbi; path = Resources/GameScene.ccbi; sourceTree = "<group>"; };
+		F49536A0183B1EC5003AA626 /* HelloCocosBuilder.ccbi */ = {isa = PBXFileReference; lastKnownFileType = file; name = HelloCocosBuilder.ccbi; path = Resources/HelloCocosBuilder.ccbi; sourceTree = "<group>"; };
+		F49536A1183B1EC5003AA626 /* Level.ccbi */ = {isa = PBXFileReference; lastKnownFileType = file; name = Level.ccbi; path = Resources/Level.ccbi; sourceTree = "<group>"; };
+		F49536AF183B1F5E003AA626 /* CCBAnimationManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CCBAnimationManager.h; sourceTree = "<group>"; };
+		F49536B0183B1F5E003AA626 /* CCBAnimationManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CCBAnimationManager.m; sourceTree = "<group>"; };
+		F49536B1183B1F5E003AA626 /* CCBKeyframe.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CCBKeyframe.h; sourceTree = "<group>"; };
+		F49536B2183B1F5E003AA626 /* CCBKeyframe.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CCBKeyframe.m; sourceTree = "<group>"; };
+		F49536B3183B1F5E003AA626 /* CCBReader.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CCBReader.h; sourceTree = "<group>"; };
+		F49536B4183B1F5E003AA626 /* CCBReader.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CCBReader.m; sourceTree = "<group>"; };
+		F49536B5183B1F5E003AA626 /* CCBSequence.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CCBSequence.h; sourceTree = "<group>"; };
+		F49536B6183B1F5E003AA626 /* CCBsequence.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CCBsequence.m; sourceTree = "<group>"; };
+		F49536B7183B1F5E003AA626 /* CCBSequenceProperty.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CCBSequenceProperty.h; sourceTree = "<group>"; };
+		F49536B8183B1F5E003AA626 /* CCBSequenceProperty.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CCBSequenceProperty.m; sourceTree = "<group>"; };
+		F49536B9183B1F5E003AA626 /* CCNode+CCBRelativePositioning.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "CCNode+CCBRelativePositioning.h"; sourceTree = "<group>"; };
+		F49536BA183B1F5E003AA626 /* CCNode+CCBRelativePositioning.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "CCNode+CCBRelativePositioning.m"; sourceTree = "<group>"; };
+		F49536C1183B20C2003AA626 /* MainMenuScene.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MainMenuScene.h; sourceTree = "<group>"; };
+		F49536C2183B20C2003AA626 /* MainMenuScene.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MainMenuScene.m; sourceTree = "<group>"; };
+		F49536C4183B225A003AA626 /* MainMenuScene.ccbi */ = {isa = PBXFileReference; lastKnownFileType = file; name = MainMenuScene.ccbi; path = Resources/MainMenuScene.ccbi; sourceTree = "<group>"; };
 		F4CAE1B51831E4E9003BC04D /* CocosDragon.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CocosDragon.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		F4CAE1B81831E4E9003BC04D /* QuartzCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QuartzCore.framework; path = System/Library/Frameworks/QuartzCore.framework; sourceTree = SDKROOT; };
 		F4CAE1BA1831E4E9003BC04D /* OpenGLES.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = OpenGLES.framework; path = System/Library/Frameworks/OpenGLES.framework; sourceTree = SDKROOT; };
@@ -472,6 +535,25 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		F49536AE183B1F5E003AA626 /* CCBReader */ = {
+			isa = PBXGroup;
+			children = (
+				F49536AF183B1F5E003AA626 /* CCBAnimationManager.h */,
+				F49536B0183B1F5E003AA626 /* CCBAnimationManager.m */,
+				F49536B1183B1F5E003AA626 /* CCBKeyframe.h */,
+				F49536B2183B1F5E003AA626 /* CCBKeyframe.m */,
+				F49536B3183B1F5E003AA626 /* CCBReader.h */,
+				F49536B4183B1F5E003AA626 /* CCBReader.m */,
+				F49536B5183B1F5E003AA626 /* CCBSequence.h */,
+				F49536B6183B1F5E003AA626 /* CCBsequence.m */,
+				F49536B7183B1F5E003AA626 /* CCBSequenceProperty.h */,
+				F49536B8183B1F5E003AA626 /* CCBSequenceProperty.m */,
+				F49536B9183B1F5E003AA626 /* CCNode+CCBRelativePositioning.h */,
+				F49536BA183B1F5E003AA626 /* CCNode+CCBRelativePositioning.m */,
+			);
+			path = CCBReader;
+			sourceTree = "<group>";
+		};
 		F4CAE1AC1831E4E9003BC04D = {
 			isa = PBXGroup;
 			children = (
@@ -509,6 +591,7 @@
 		F4CAE1CC1831E4E9003BC04D /* CocosDragon */ = {
 			isa = PBXGroup;
 			children = (
+				F49536AE183B1F5E003AA626 /* CCBReader */,
 				F4CAE35D1831E4EA003BC04D /* AppDelegate.h */,
 				F4CAE35E1831E4EA003BC04D /* AppDelegate.m */,
 				F4CAE3601831E4EA003BC04D /* HelloWorldLayer.h */,
@@ -518,6 +601,8 @@
 				F4CAE1CD1831E4E9003BC04D /* Resources */,
 				F4CAE1E51831E4E9003BC04D /* libs */,
 				F4CAE3591831E4EA003BC04D /* Supporting Files */,
+				F49536C1183B20C2003AA626 /* MainMenuScene.h */,
+				F49536C2183B20C2003AA626 /* MainMenuScene.m */,
 			);
 			path = CocosDragon;
 			sourceTree = "<group>";
@@ -525,6 +610,27 @@
 		F4CAE1CD1831E4E9003BC04D /* Resources */ = {
 			isa = PBXGroup;
 			children = (
+				F49536C4183B225A003AA626 /* MainMenuScene.ccbi */,
+				F4953698183B1EC5003AA626 /* Bomb.ccbi */,
+				F4953699183B1EC5003AA626 /* Coin.ccbi */,
+				F495369A183B1EC5003AA626 /* Dragon.ccbi */,
+				F495369B183B1EC5003AA626 /* EndCoin.ccbi */,
+				F495369C183B1EC5003AA626 /* Explosion.ccbi */,
+				F495369D183B1EC5003AA626 /* gameobjects-hd.png */,
+				F495369E183B1EC5003AA626 /* gameobjects.png */,
+				F495369F183B1EC5003AA626 /* GameScene.ccbi */,
+				F49536A0183B1EC5003AA626 /* HelloCocosBuilder.ccbi */,
+				F49536A1183B1EC5003AA626 /* Level.ccbi */,
+				F4953696183B1E7B003AA626 /* gameobjects.plist */,
+				F4953694183B1E68003AA626 /* gameobjects-hd.plist */,
+				F4953690183B1E41003AA626 /* cloud-hd.png */,
+				F4953691183B1E41003AA626 /* cloud.png */,
+				F495361C183B1E0C003AA626 /* logo-hd.png */,
+				F495361D183B1E0C003AA626 /* logo.png */,
+				F4953614183B1DEF003AA626 /* play-button-down-hd.png */,
+				F4953615183B1DEF003AA626 /* play-button-down.png */,
+				F4953616183B1DEF003AA626 /* play-button-hd.png */,
+				F4953617183B1DEF003AA626 /* play-button.png */,
 				F4CAE36B1831E53D003BC04D /* cloud-hd.png */,
 				F4CAE36C1831E53D003BC04D /* cloud.png */,
 				F4CAE36D1831E53D003BC04D /* gameobjects-hd.plist */,
@@ -967,28 +1073,49 @@
 			buildActionMask = 2147483647;
 			files = (
 				F4CAE1DF1831E4E9003BC04D /* Icon.png in Resources */,
+				F4953618183B1DEF003AA626 /* play-button-down-hd.png in Resources */,
 				F4CAE33D1831E4EA003BC04D /* ChangeLog in Resources */,
 				F4CAE37D1831E53D003BC04D /* logo-hd.png in Resources */,
+				F495361E183B1E0C003AA626 /* logo-hd.png in Resources */,
+				F495361A183B1DEF003AA626 /* play-button-hd.png in Resources */,
 				F4CAE37C1831E53D003BC04D /* gameobjects.png in Resources */,
 				F4CAE37A1831E53D003BC04D /* gameobjects-hd.png in Resources */,
 				F4CAE37F1831E53D003BC04D /* play-button-down-hd.png in Resources */,
 				F4CAE1D11831E4E9003BC04D /* Default@2x.png in Resources */,
+				F49536A8183B1EC5003AA626 /* gameobjects-hd.png in Resources */,
 				F4CAE3801831E53D003BC04D /* play-button-down.png in Resources */,
 				F4CAE1DB1831E4E9003BC04D /* Icon-Small.png in Resources */,
 				F4CAE3821831E53D003BC04D /* play-button.png in Resources */,
+				F4953697183B1E7B003AA626 /* gameobjects.plist in Resources */,
 				F4CAE1D71831E4E9003BC04D /* Icon-72.png in Resources */,
+				F49536A6183B1EC5003AA626 /* EndCoin.ccbi in Resources */,
+				F49536A7183B1EC5003AA626 /* Explosion.ccbi in Resources */,
 				F4CAE3811831E53D003BC04D /* play-button-hd.png in Resources */,
+				F4953619183B1DEF003AA626 /* play-button-down.png in Resources */,
 				F4CAE3791831E53D003BC04D /* gameobjects-hd.plist in Resources */,
 				F4CAE1CF1831E4E9003BC04D /* Default.png in Resources */,
+				F495361B183B1DEF003AA626 /* play-button.png in Resources */,
+				F49536A9183B1EC5003AA626 /* gameobjects.png in Resources */,
+				F4953693183B1E41003AA626 /* cloud.png in Resources */,
+				F49536AA183B1EC5003AA626 /* GameScene.ccbi in Resources */,
+				F4953695183B1E68003AA626 /* gameobjects-hd.plist in Resources */,
 				F4CAE3771831E53D003BC04D /* cloud-hd.png in Resources */,
+				F49536A3183B1EC5003AA626 /* Bomb.ccbi in Resources */,
 				F4CAE1D91831E4E9003BC04D /* Icon-Small-50.png in Resources */,
+				F49536A4183B1EC5003AA626 /* Coin.ccbi in Resources */,
+				F49536AB183B1EC5003AA626 /* HelloCocosBuilder.ccbi in Resources */,
 				F4CAE1E41831E4E9003BC04D /* iTunesArtwork in Resources */,
+				F49536AC183B1EC5003AA626 /* Level.ccbi in Resources */,
+				F49536C5183B225A003AA626 /* MainMenuScene.ccbi in Resources */,
+				F49536A5183B1EC5003AA626 /* Dragon.ccbi in Resources */,
 				F4CAE3781831E53D003BC04D /* cloud.png in Resources */,
 				F4CAE1DD1831E4E9003BC04D /* Icon-Small@2x.png in Resources */,
 				F4CAE37B1831E53D003BC04D /* gameobjects.plist in Resources */,
 				F4CAE37E1831E53D003BC04D /* logo.png in Resources */,
+				F495361F183B1E0C003AA626 /* logo.png in Resources */,
 				F4CAE1D51831E4E9003BC04D /* Default-Landscape~ipad.png in Resources */,
 				F4CAE1D31831E4E9003BC04D /* Default-568h@2x.png in Resources */,
+				F4953692183B1E41003AA626 /* cloud-hd.png in Resources */,
 				F4CAE1E11831E4E9003BC04D /* Icon@2x.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -1008,6 +1135,7 @@
 				F4CAE3471831E4EA003BC04D /* mat4.c in Sources */,
 				F4CAE2231831E4E9003BC04D /* ccDeprecated.m in Sources */,
 				F4CAE2DE1831E4E9003BC04D /* CCDirectorMac.m in Sources */,
+				F49536BF183B1F5E003AA626 /* CCBSequenceProperty.m in Sources */,
 				F4CAE2381831E4E9003BC04D /* ccGLStateCache.m in Sources */,
 				F4CAE30A1831E4EA003BC04D /* TransformUtils.m in Sources */,
 				F4CAE2571831E4E9003BC04D /* CCNode+Debug.m in Sources */,
@@ -1030,8 +1158,10 @@
 				F4CAE2631831E4E9003BC04D /* CCParticleExamples.m in Sources */,
 				F4CAE2601831E4E9003BC04D /* CCParticleBatchNode.m in Sources */,
 				F4CAE2A31831E4E9003BC04D /* CCTextureAtlas.m in Sources */,
+				F49536BC183B1F5E003AA626 /* CCBKeyframe.m in Sources */,
 				F4CAE3511831E4EA003BC04D /* utility.c in Sources */,
 				F4CAE2FD1831E4EA003BC04D /* CCVertex.m in Sources */,
+				F49536C0183B1F5E003AA626 /* CCNode+CCBRelativePositioning.m in Sources */,
 				F4CAE3031831E4EA003BC04D /* NSThread+performBlock.m in Sources */,
 				F4CAE20A1831E4E9003BC04D /* CCActionTiledGrid.m in Sources */,
 				F4CAE2511831E4E9003BC04D /* CCMenuItem.m in Sources */,
@@ -1048,6 +1178,7 @@
 				F4CAE2CF1831E4E9003BC04D /* CCES2Renderer.m in Sources */,
 				F4CAE2411831E4E9003BC04D /* CCLabelAtlas.m in Sources */,
 				F4CAE25D1831E4E9003BC04D /* CCParallaxNode.m in Sources */,
+				F49536BE183B1F5E003AA626 /* CCBsequence.m in Sources */,
 				F4CAE3651831E4EA003BC04D /* IntroLayer.m in Sources */,
 				F4CAE1F51831E4E9003BC04D /* CCActionGrid.m in Sources */,
 				F4CAE23E1831E4E9003BC04D /* CCGrid.m in Sources */,
@@ -1055,6 +1186,8 @@
 				F4CAE29A1831E4E9003BC04D /* CCSpriteFrame.m in Sources */,
 				F4CAE2071831E4E9003BC04D /* CCActionProgressTimer.m in Sources */,
 				F4CAE1E91831E4E9003BC04D /* CCAction.m in Sources */,
+				F49536BD183B1F5E003AA626 /* CCBReader.m in Sources */,
+				F49536C3183B20C2003AA626 /* MainMenuScene.m in Sources */,
 				F4CAE3211831E4EA003BC04D /* CocosDenshion.m in Sources */,
 				F4CAE2A61831E4E9003BC04D /* CCTextureCache.m in Sources */,
 				F4CAE3491831E4EA003BC04D /* neon_matrix_impl.c in Sources */,
@@ -1080,6 +1213,7 @@
 				F4CAE2E41831E4EA003BC04D /* CCGLView.m in Sources */,
 				F4CAE3181831E4EA003BC04D /* CDOpenALSupport.m in Sources */,
 				F4CAE1FB1831E4E9003BC04D /* CCActionInstant.m in Sources */,
+				F49536BB183B1F5E003AA626 /* CCBAnimationManager.m in Sources */,
 				F4CAE21C1831E4E9003BC04D /* CCClippingNode.m in Sources */,
 				F4CAE2A01831E4E9003BC04D /* CCTexture2D.m in Sources */,
 				F4CAE2B51831E4E9003BC04D /* CCTMXTiledMap.m in Sources */,
@@ -1217,6 +1351,7 @@
 				F4CAE36A1831E4EA003BC04D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
