@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "F4CAE1B41831E4E9003BC04D"
+               BlueprintIdentifier = "E3EFB1D515F7A0160037A158"
                BuildableName = "CocosDragon.app"
                BlueprintName = "CocosDragon"
                ReferencedContainer = "container:CocosDragon.xcodeproj">
@@ -32,7 +32,7 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "F4CAE1B41831E4E9003BC04D"
+            BlueprintIdentifier = "E3EFB1D515F7A0160037A158"
             BuildableName = "CocosDragon.app"
             BlueprintName = "CocosDragon"
             ReferencedContainer = "container:CocosDragon.xcodeproj">
@@ -51,7 +51,7 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "F4CAE1B41831E4E9003BC04D"
+            BlueprintIdentifier = "E3EFB1D515F7A0160037A158"
             BuildableName = "CocosDragon.app"
             BlueprintName = "CocosDragon"
             ReferencedContainer = "container:CocosDragon.xcodeproj">
@@ -69,7 +69,7 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "F4CAE1B41831E4E9003BC04D"
+            BlueprintIdentifier = "E3EFB1D515F7A0160037A158"
             BuildableName = "CocosDragon.app"
             BlueprintName = "CocosDragon"
             ReferencedContainer = "container:CocosDragon.xcodeproj">
